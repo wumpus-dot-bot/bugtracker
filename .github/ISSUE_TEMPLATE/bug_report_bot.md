@@ -1,14 +1,10 @@
 ---
-name: Report an issue
+name: Report a bot issue
 about: If you encountered an issue and want to report it
 title: ''
-labels: 'type: triage'
+labels: 'type: triage, component: bot'
 assignees: ''
 ---
-
-**This issue is encountered on:**
-- [ ] The bot
-- [ ] The dashboard
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -29,6 +25,10 @@ If applicable, add screenshots to help explain your problem.
 **Information (please complete the following information):**
 <!-- You can find the version using `about` command -->
 - Wumpus version: [e.g. 3.0.0]
+<!-- IMPORTANT:
+Do not share your tag, your ID is enough and a safe data
+-->
+- Your user ID: [e.g 1234567890]
 <!-- IMPORTANT:
 Do not share an invitation link, your server ID is enough.
 -->
