@@ -1,5 +1,5 @@
 ---
-name: Report a bot issue
+name: Report a dashboard issue
 about: If you encountered an issue and want to report it
 title: ''
 labels: 'type: triage, component: dashboard'
