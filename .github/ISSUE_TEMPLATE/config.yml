@@ -1,0 +1,11 @@
+---
+blank_issues_enabled: false
+contact_links:
+  -
+    about: "If you discovered a security issue and/or a hack"
+    name: Email us
+    mailto: "contact@wumpus.bot"
+  -
+    about: "Alternatively, you can join us on Discord."
+    name: Chat with us
+    url: "https://discord.gg/YwEZW2yq9t"
